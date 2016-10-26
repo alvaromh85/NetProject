@@ -1,0 +1,44 @@
+﻿<div class="hero-unit">
+    <h2>Get All</h2>
+    <div>
+        <table id="tblList" class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <hr />
+    <h2>Get one</h2>
+    <div>
+        <ul>
+            <li>
+                <label>Id:</label>
+                <input type="text" id="txtIdSearch" />
+                <input type="button" id="btnSearch" value="Search" />
+            </li>
+            <li>
+                <label>First Name:</label>
+                <input type="text" id="txtFirstName" />
+            </li>
+            <li>
+                <label>Last name:</label>
+                <input type="text" id="txtLastName" />
+            </li>
+            <li>
+                <input type="button" id="btnCreate" value="Create" />
+                <input type="button" id="btnDelete" value="Delete" />
+                <input type="button" id="btnUpdate" value="Update" />
+            </li>
+        </ul>
+    </div>
+</div>
+
+@section scripts
+{
+    <script type="text/javascript" src="@Url.Content("/Scripts/app/person.js")"></script>
+}

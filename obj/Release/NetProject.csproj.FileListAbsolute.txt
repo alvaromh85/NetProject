@@ -1,0 +1,7 @@
+C:\Users\alvaro.martinez\Downloads\NetProject\bin\3 - Consuming CRUD.dll.config
+C:\Users\alvaro.martinez\Downloads\NetProject\bin\3 - Consuming CRUD.dll
+C:\Users\alvaro.martinez\Downloads\NetProject\bin\3 - Consuming CRUD.pdb
+C:\Users\alvaro.martinez\Downloads\NetProject\bin\Newtonsoft.Json.dll
+C:\Users\alvaro.martinez\Downloads\NetProject\obj\Release\NetProject.csprojResolveAssemblyReference.cache
+C:\Users\alvaro.martinez\Downloads\NetProject\obj\Release\3 - Consuming CRUD.dll
+C:\Users\alvaro.martinez\Downloads\NetProject\obj\Release\3 - Consuming CRUD.pdb

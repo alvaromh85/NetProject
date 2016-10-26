@@ -1,0 +1,6 @@
+C:\Users\alvaro.martinez\Downloads\3 - Consuming CRUD\bin\3 - Consuming CRUD.dll.config
+C:\Users\alvaro.martinez\Downloads\3 - Consuming CRUD\bin\3 - Consuming CRUD.dll
+C:\Users\alvaro.martinez\Downloads\3 - Consuming CRUD\bin\3 - Consuming CRUD.pdb
+C:\Users\alvaro.martinez\Downloads\3 - Consuming CRUD\bin\Newtonsoft.Json.dll
+C:\Users\alvaro.martinez\Downloads\3 - Consuming CRUD\obj\Debug\3 - Consuming CRUD.dll
+C:\Users\alvaro.martinez\Downloads\3 - Consuming CRUD\obj\Debug\3 - Consuming CRUD.pdb
